@@ -1,8 +1,8 @@
-# local-searchs
-AI local search implementation and visualization in C#
+# local-searches
+Artificial Intelligence local searches implementation and visualization in C#
 
 
-## Searchs:
+## Searches:
 Hill Climbing (best choise, first choise), Similuated Annealing, Local beam   
 
 ## Problems:  
