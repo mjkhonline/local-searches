@@ -7,3 +7,5 @@ Hill Climbing (best choise, first choise), Similuated Annealing, Local beam
 
 ## Problems:  
 n-Queen, Graph Coloring  
+  
+![Screenshot](screenshot.png)
